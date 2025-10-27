@@ -85,12 +85,6 @@ Feel free to submit issues or pull requests if you want to improve or extend the
 
 ---
 
-## License
-
-Specify your license here, such as MIT, GPL, or others.
-
----
-
 ## Contact
 
 For any queries or support, contact Aniket at aniketpawar2457@gmail.com 
