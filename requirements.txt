@@ -1,0 +1,7 @@
+
+# Minimal project requirements for Cyber-Cafe-Management
+# The project uses tkinter (bundled with Python on most platforms),
+# the Pillow library for image handling, and the MySQL connector.
+
+Pillow
+mysql-connector-python
